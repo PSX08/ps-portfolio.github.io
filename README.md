@@ -11,10 +11,10 @@
 
 <center>
 		
-<h1>Hi! I am Pramodh Shetty! <img src = "C:\Users\Shetty\Desktop\New folder\Man.webp" height="30" width="30"></h1>
-        <p>A passionate and crazy developer who likes to code things from scratch <img src = "C:\Users\Shetty\Desktop\New folder\High Voltage.webp" height = "30" width = "30"></p><br>
+<h1>Hi! I am Pramodh Shetty! <img src = "Man.webp" height="30" width="30"></h1>
+        <p>A passionate and crazy developer who likes to code things from scratch <img src = "High Voltage.webp" height = "30" width = "30"></p><br>
         
-<h2 style= "font-family:Arial Black">Skills <img src ="C:\Users\Shetty\Desktop\New folder\⚒️.png" height = "20" width="20"></h2>
+<h2 style= "font-family:Arial Black">Skills <img src ="⚒️.png" height = "20" width="20"></h2>
         <h3>I am experienced in</h3>
         <table>
             <tr>
