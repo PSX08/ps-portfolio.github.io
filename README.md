@@ -6,15 +6,15 @@
     <title>RAW!</title>
 </head>
 
-	<header style="font-family:Arial Black" align = "center" "font-size: 500"> PS </header>
+<header style="font-family:Arial Black" align = "center" "font-size: 500"> PS </header>
 <body style= "font-family:Consolas">
 
-    <center>
+<center>
 		
-        <h1>Hi! I am Pramodh Shetty! <img src = "C:\Users\Shetty\Desktop\New folder\Man.webp" height="30" width="30"></h1>
+<h1>Hi! I am Pramodh Shetty! <img src = "C:\Users\Shetty\Desktop\New folder\Man.webp" height="30" width="30"></h1>
         <p>A passionate and crazy developer who likes to code things from scratch <img src = "C:\Users\Shetty\Desktop\New folder\High Voltage.webp" height = "30" width = "30"></p><br>
         
-		<h2 style= "font-family:Arial Black">Skills <img src ="C:\Users\Shetty\Desktop\New folder\⚒️.png" height = "20" width="20"></h2>
+<h2 style= "font-family:Arial Black">Skills <img src ="C:\Users\Shetty\Desktop\New folder\⚒️.png" height = "20" width="20"></h2>
         <h3>I am experienced in</h3>
         <table>
             <tr>
@@ -26,8 +26,8 @@
                 </td>
             </tr>
         </table>
-		
-        <h3>Currently Learning</h3>
+	
+ <h3>Currently Learning</h3>
         <table>
             <tr>
                 <td>
@@ -37,7 +37,7 @@
             </tr>
         </table><br>
 		
-        <h2 style= "font-family:Arial Black">Education 🧑🏻‍🎓</h2>
+<h2 style= "font-family:Arial Black">Education 🧑🏻‍🎓</h2>
         <h3>1. Bachelor of Engineering (AIML)</h3>
         <table>
             <tr><td>
@@ -46,7 +46,7 @@
             </td></tr>
         </table><br>
 		
-        <h3>2. Diploma (CSE)</h3>
+ <h3>2. Diploma (CSE)</h3>
         <table>
             <tr>
                 <td>
@@ -73,7 +73,7 @@
             </tr>
         </table><br><br>
 		
-        <h2 style= "font-family:Arial Black">Work Experience 🏢</h2>
+ <h2 style= "font-family:Arial Black">Work Experience 🏢</h2>
         <table>
             <tr>
                 <td>
@@ -86,7 +86,7 @@
 	</center>
 </body>
 
-        <footer align="center"><p>Made with 💗 and only HTML</p></footer>
+<footer align="center"><p>Made with 💗 and only HTML</p></footer>
 		
 
 </html>
